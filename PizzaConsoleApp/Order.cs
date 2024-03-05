@@ -12,7 +12,7 @@ namespace PizzaConsoleApp
 
         #region Instance Fields
 
-        double _TaxPct; //classes skal laves om til internal og private
+        double _TaxPct; 
         int _DeliveryCosts;
         Pizza _pizza;
         Customer _customer;
